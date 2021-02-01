@@ -1,0 +1,21 @@
+h1
+/*Positionnement et police du titre*/
+{
+    text-align: center;
+ 
+}
+
+#reponses{
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  text-align: center;
+}
+#reponses div{
+  margin: auto;  
+  margin-top: 15px;
+  width: 400px;
+  height: 150px;
+  border: solid;
+  border-radius: 20px;
+}

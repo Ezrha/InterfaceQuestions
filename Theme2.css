@@ -1,0 +1,20 @@
+h1
+/*Positionnement et police du titre*/
+{
+    text-align: center;
+}
+
+.bouton {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+.bouton div {
+  margin: 72px;
+  width: 40%;
+  height: 100px;
+  background-color: rgb(136, 132, 132);
+  border: solid;
+  border-radius: 20px;
+}
